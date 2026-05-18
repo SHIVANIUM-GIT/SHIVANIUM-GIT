@@ -41,7 +41,7 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,neovim,vim,vscode&titles" height="50" />
 </div>
 
-
+<!--
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -50,7 +50,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=SHIVANIUM-GIT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs?username=SHIVANIUM-GIT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
 </div>
-
+-->
 ###
 
 <div align="center">
