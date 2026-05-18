@@ -30,7 +30,7 @@
 ###
 <div align="center">
     <h3>Languages</h3>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,go,javascript,bash,rust,nodejs&titles=true" height="50" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,go,javascript,bash,rust,nodejs&titles=true" height="50" />
     <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="50" />
     <h3>DevOps Tools</h3>
