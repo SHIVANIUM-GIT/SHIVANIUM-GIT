@@ -54,6 +54,8 @@
 ###
 
 <div align="center">
+  📫 Connect with me and chat :incoming_envelope: <br/>
+
   <a href="https://www.linkedin.com/in/shivanium" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -64,6 +66,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+<p align="center">
+  <i> Open to anything under the stars :sparkles: </i>
+</p>
+
 
 ###
 
